@@ -29,7 +29,7 @@ This course introduced **Cloud & DevOps fundamentals**, focusing on:
 
 ## 📜 Certificate
 
-![Certificate Image](cert/redhat-cert.png)
+![Certificate Image](certificate_Red_Hat.jpg)
 
 🔗 [View Credential on Coursera](your-coursera-link-here)
 
